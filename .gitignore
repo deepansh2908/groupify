@@ -1,0 +1,7 @@
+venv
+groupify/__pycache__
+db.sqlite3
+base/__pycache__
+groupify/settings.py
+base/migrations
+static
